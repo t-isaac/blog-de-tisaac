@@ -1,5 +1,5 @@
 ---
-title: "Accueil"
+title: "À propos"
 order: 0
 ---
 # Le blog de tisaac
