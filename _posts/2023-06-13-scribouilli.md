@@ -1,5 +1,5 @@
 ---
-title: Scribouilli
+title: "Scribouilli"
 ---
 Il y a deux semaines, je ne connaissais pas Scribouilli. Je l'ai découvert sur Mastodon par l'intermédiaire de [Maiwann](https://piaille.fr/@maiwann@framapiaf.org) qui cherchait des beta-testeurs. L'un ou l'autre RDV manqués n'ont pas entamé ma curiosité et quand la [grande ouverture](https://piaille.fr/@maiwann@framapiaf.org/109896932255160223) a eu lieu, je me suis précipité pour tester l'histoire.
 
@@ -44,9 +44,10 @@ Je ne sais pas si j'ai rencontré un bug. Je n'en rencontre pas souvent alors je
 
 ## Image
 
-Il est même prévu de pouvoir insérer des images dans son site. Un dossier a même été créer dans GitHub pour cela. Ce qui me permet de tenter de mettre une image (dans le domaine public, trouvée sur [Wikipédia](https://commons.wikimedia.org/wiki/File:AachenMainStationInsideViewHDR.jpg)) dans ce texte :
+Il est même prévu de pouvoir insérer des images dans son site. Un dossier a même été créer dans GitHub pour cela. Ce qui me permet de tenter de mettre une image (dans le domaine public, trouvée sur [Wikipédia](https://commons.wikimedia.org/wiki/File:AachenMainStationInsideViewHDR.jpg)) (et un peu traficotée par mes soins) dans ce texte :
 
-![Intérieur de la gare d'Aachen](https://raw.githubusercontent.com/t-isaac/test-website-repo-3796/main/images/AachenMainStationInsideViewHDR.jpg)
+![Intérieur de la gare d'Aachen](/images/AachenMainStationInsideViewHD.avif)
+
 
 Je vous laisse chercher le lien entre cette image et ce texte de blog. En parlant de lien, je dois avouer que j'ai eu un peu de mal à trouver le bon lien à insérer mais je pense que j'ai compris que ce n'est pas l'adresse que je trouve dans la barre de mon navigateur ni le permalink mais plutôt le _path_ du _Copy path_.
 
