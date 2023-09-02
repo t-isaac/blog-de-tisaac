@@ -59,9 +59,9 @@ Concernant l'anti-shift modal, il n'y a pas grand-chose à dire. La seule inconn
 
 ## La peur de prendre les transports en commun
 
-Lors de chaque vague d'attentats touchant les transports publics, revient le débat de savoir si cela ne va pas en éloigner les voyageurs. Pourtant, si l'on prend l'exemple des attentats de Bruxelles, on n'observe pas d'effet permanent après 2016. Même 2016 n'est pas forcément une mauvaise année pour les transports en commun. Je n'ai pas de connaissance de cas où ce genre d’événements ait eu un impact négatif dans le long terme sur le nombre d'usagers des transports publics.
+<img class="CC" src="/images/attentat metro.avif" alt="Photo d'un métro Bruxellois visé par un attentat"  />
 
-<img class="GNF" src="/images/attentat metro.avif" alt="Photo d'un métro Bruxellois visé par un attentat"  />
+Lors de chaque vague d'attentats touchant les transports publics, revient le débat de savoir si cela ne va pas en éloigner les voyageurs. Pourtant, si l'on prend l'exemple des attentats de Bruxelles, on n'observe pas d'effet permanent après 2016. Même 2016 n'est pas forcément une mauvaise année pour les transports en commun. Je n'ai pas de connaissance de cas où ce genre d’événements ait eu un impact négatif dans le long terme sur le nombre d'usagers des transports publics.
 
 <img class="DF" src="/images/gestes barrières.avif" alt="Symboles représentant différents gestes barrières dans le cadre de la pandémie de Covid-19"  />
 
