@@ -3,8 +3,7 @@ title: "Covid-19 et transport public quel impact à long terme ?"
 ---
 _Article publié initialement sur une autre plateforme en septembre 2020_
 
-![Grand Station](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/Grand%20Station.jpg?raw=true)
-_Grand Station_
+![Hall de la gare Grand Station](/images/Grand Station.avif)
 
 Le Covid-19 a chamboulé toutes nos vies et tous les secteurs, le transport public ne fait pas exception à cet état de fait. La baisse de fréquentation est drastique pour les différents opérateurs. [Fin juillet 2020, STIB et SNCB ne transportaient que 50% de la clientèle habituelle alors que le TEC était à 30% de sa fréquentation normale.](https://www.rtl.be/actu/coronavirus-en-belgique-50-dusagers-en-moins-dans-les-trains-et-metros/2020-07-20/article/323287)
 
@@ -12,7 +11,7 @@ Si l’impact immédiat est évident, on peut se demander ce qu’il en sera sur
 
 Avant d’entrer dans le vif du sujet, observons que s’il est important d’anticiper le long terme, le faire au milieu de la tempête n’est pas forcément la chose la plus aisée. Nous espérons tous avoir passé le plus fort des intempéries, mais il est clair que nous ne sommes pas encore arrivés au bout des turbulences. On se gardera donc de tirer trop vite des conclusions définitives ou de prendre trop précipitamment des décisions radicales.
 
-![Tempête](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/Temp%C3%AAte.jpeg?raw=true)
+<img class="GF" src="/images/Tempête.avif" alt="Un bateau dans la tempête"  />
 
 Cette prudence est d’autant plus justifiée que l’on est en grande partie aveugle sur ce qui va venir. D’une part, nous ne savons pas encore exactement comment va évoluer la situation sanitaire. D’autre part, les modèles de projections regardent tous le passé pour essayer de déterminer le futur. Ce n’est pas certain, mais l’impression est forte que demain ne sera pas exactement comme hier. Dès lors, nous ne sommes pas sûrs de pouvoir nous fier à nos modèles actuels tout en n'en ayant pas d’autres de disponibles. Aujourd’hui, les projections reflètent sans doute plus les croyances et convictions du modélisateur qu’une quelconque connaissance solide de la réalité.
 
@@ -26,7 +25,7 @@ Cette section se contente de les lister et des les expliquer. La section suivant
 
 La crise actuelle est clairement un accélérateur pour l'adoption du télétravail dans nos entreprises et administrations et ce même si l'on doit s'attendre à une diminution du télétravail une fois que la situation sanitaire le permettra.
 
-![Teletravail](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/teletravail.png?raw=true)
+<img class="GF" src="/images/teletravail.avif" alt="Symbole d'une personne travaillant à l'intérieur d'une maison"  />
 
 Les déplacements domicile-travail représente près de 20% de tous les déplacements en Belgique. Par ailleurs, la part modale des transports en commun pour le motif de déplacement domicile-travail est supérieur à la moyenne. Les transports publics sont donc en première ligne pour ressentir une diminution des déplacements suite à l'essor du télétravail.
 
@@ -62,13 +61,13 @@ Concernant l'anti-shift modal, il n'y a pas grand-chose à dire. La seule inconn
 
 Lors de chaque vague d'attentats touchant les transports publics, revient le débat de savoir si cela ne va pas en éloigner les voyageurs. Pourtant, si l'on prend l'exemple des attentats de Bruxelles, on n'observe pas d'effet permanent après 2016. Même 2016 n'est pas forcément une mauvaise année pour les transports en commun. Je n'ai pas de connaissance de cas où ce genre d’événements ait eu un impact négatif dans le long terme sur le nombre d'usagers des transports publics.
 
-![Attentats dans le métro bruxellois](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/attentat%20metro.jpeg?raw=true)
+<img class="GNF" src="/images/attentat metro.avif" alt="Photo d'un métro Bruxellois visé par un attentat"  />
+
+<img class="DF" src="/images/gestes barrières.avif" alt="Symboles représentant différents gestes barrières dans le cadre de la pandémie de Covid-19"  />
 
 Comparaison n'est pas raison mais y a-t-il vraiment des raisons de penser que cela sera différent avec le Covid-19 ?
 
-Un élément qui pourrait laisser penser que cette comparaison est inadéquate serait que dans les événements type attentats ou accidents, l’événement est plutôt soudain, ponctuel alors que nous sommes ici face à un événement relativement long.
-
-![Gestes barrières](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/gestes%20barri%C3%A8res.png?raw=true)
+Un élément qui pourrait laisser penser que cette comparaison est inadéquate serait que dans les événements type attentats ou accidents, l’événement est plutôt soudain, ponctuel alors que nous sommes ici face à un événement 
 
 Beaucoup dépendra sans doute de comment évoluera la perception de la menace. Au minimum à court terme, l'évolution de la connaissance du Covid-19 sera cruciale. La confirmation ou non de l'efficacité des gestes barrières ou du port du masque, la découverte ou non de médicaments ou vaccins auront évidemment une grande importance dans la perception du risque.
 
