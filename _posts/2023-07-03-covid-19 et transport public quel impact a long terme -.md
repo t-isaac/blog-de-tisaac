@@ -25,7 +25,7 @@ Cette section se contente de les lister et des les expliquer. La section suivant
 
 La crise actuelle est clairement un accélérateur pour l'adoption du télétravail dans nos entreprises et administrations et ce même si l'on doit s'attendre à une diminution du télétravail une fois que la situation sanitaire le permettra.
 
-<img class="GF" src="/images/teletravail.avif" alt="Symbole d'une personne travaillant à l'intérieur d'une maison"  />
+<img class="DF" src="/images/teletravail.avif" alt="Symbole d'une personne travaillant à l'intérieur d'une maison"  />
 
 Les déplacements domicile-travail représente près de 20% de tous les déplacements en Belgique. Par ailleurs, la part modale des transports en commun pour le motif de déplacement domicile-travail est supérieur à la moyenne. Les transports publics sont donc en première ligne pour ressentir une diminution des déplacements suite à l'essor du télétravail.
 
