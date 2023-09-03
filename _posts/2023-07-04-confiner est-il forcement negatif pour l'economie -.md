@@ -3,7 +3,7 @@ title: "Confiner est-il forcément négatif pour l'économie ?"
 ---
 _Texte publié initialement sur une autre plateforme en octobre 2020. Texte effectivement daté ;-)_
 
-![Magasin fermé](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/magasin%20ferm%C3%A9.jpeg?raw=true)
+<img class="CC" src="/images/magasin fermé.avif" alt="Vitrine de magasin avec une pancarte closed"  />
 _Pixabay - RyanMcGuire_
 
 Il me semble que de plus en plus de personnes estiment que l'on met exagérément à mal notre économie par peur de mourir. Dernière variation autour de ce thème, la déclaration de [Eric-Emmanuel Schmidt dans L'Echo](https://www.lecho.be/economie-politique/europe/general/eric-emmanuel-schmitt-on-decide-de-tuer-l-economie-pour-ne-pas-mourir-comme-si-la-mort-etait-un-accident-qu-on-pouvait-eviter/10258476.html) : _On décide de tuer l'économie pour éviter de mourir, comme si la mort était quelque chose qu'on peut éviter._
@@ -38,7 +38,7 @@ Toujours pas de lockdown. Contrairement au cas précédent, on soutient à fond 
 
 Combien de lits en unité de soin intensif doit-on prévoir ?
 
-![Extension d'un hopital. Soins intensifs.](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/hopital%20extension.jpeg?raw=true)
+<img class="CC" src="/images/hopital extension.avif" alt="Service hospitalier"  />
 
 Je ne suis pas spécialiste de cette question mais supposons que l'augmentation en pourcentage du nombre de lits occupés en USI reste constante. L'augmentation entre le 9 et le 16 octobre était de 69%. Je vais prendre une croissance de 60% par semaine. Le nombre de lits occupés était de 358, arrondissons à 350.
 
@@ -60,7 +60,7 @@ On l'a vu ci-dessus, le coût de ne pas confiner peut-être très important au n
 
 En mars-avril, des taux d'absentéisme de l'ordre de 20 à 30% n'étaient a priori pas exceptionnels. Faire tourner une entreprise avec 20% à 30% de personnel en moins n'est sans doute pas si compliqué sur quelques jours (et encore). Mais une fois que cela s'inscrit dans le temps, cela devient bien plus complexe et il est pratiquement impossible de continuer à fonctionner normalement.
 
-![Certificat medical](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/certificat%20medical.jpeg?raw=true)
+<img class="CC" src="/images/certificat medical.avif" alt="Certificat médical en train d'être signé"  />
 
 La diminution de production est quasiment immanquable mais, pour des questions organisationnelles, la diminution peut être supérieure aux nombres d'absents. Par conséquent, le coût unitaire de production augmente. En d'autres mots, la productivité et la profitabilité de l'activité diminue.
 
