@@ -1,9 +1,9 @@
 ---
-title: Réponse à Ploum (sur le dopage éthique)
+title: "Réponse à Ploum (sur le dopage éthique)"
 ---
 _Fin juillet 2023_
 
-![Silhouette d'un cycliste](https://github.com/t-isaac/test-website-repo-3796/raw/main/images/silhouette-3597579_960_720.webp)
+<img class="CC" src="/images/silhouette-3597579_960_720.avif" alt="Une silhouette de cycliste" />
 
 Le dopage est un sujet qui revient régulièrement lorsqu’il s’agit de cyclisme particulièrement en période estivale pendant le tour de France. L’occasion pour certains blogueurs prolifiques de ressortir sur les [réseaux sociaux](https://piaille.fr/@ploum@mamot.fr/110736920866815095) de vieux billets de blog sur le sujet. C’est ainsi que Ploum a déterré l’un de ses [billets de 2015](https://ploum.net/pour-un-dopage-ethique-et-propre/index.html).
 
