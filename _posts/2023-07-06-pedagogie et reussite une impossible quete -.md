@@ -3,7 +3,7 @@ title: "Pédagogie et réussite une impossible quête ?"
 ---
 _Article initialement publié sur une autre plateforme en janvier 2022_
 
-![Auditoire](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/Auditoire.jpeg?raw=true)
+<img class="CC" src="/images/Auditoire.avif" alt="Photographie d'un professeur devant son auditoire"  />
 
 Février signifie la fin de la première session à l’université. La première session universitaire de toute leur vie pour la majorité de mes étudiants. Même si j’ai un plutôt bon souvenir de mes sessions d’examen, je sais bien que ce n’est pas une partie de plaisir pour la plupart de mes étudiants. Et les résultats en réjouiront certains mais seront une déception pour beaucoup. Déception qu’année après année, je partage d’une certaine manière. Je n’arriverai en effet jamais à m’habituer aux taux d’échec usuels à l’université. Petit partage des taux de réussite à mon cours, d’autres informations et de quelques réflexions.
 
@@ -11,7 +11,7 @@ Février signifie la fin de la première session à l’université. La premièr
 
 Commençons par les taux de réussite à mon examen ces dernières années. L’année académique 2021-22 n’est pas parfaitement comparable aux autres pour ce qui concerne le nombre d’étudiants. En effet, j’ai repris le nombre d’étudiants inscrits à l’une des trois sessions. Pour 2021-22, on ne sait pas encore combien d’étudiants viendront grossir les rangs lors des deux prochaines sessions sans s’être inscrits à la première. Le seuil de réussite est fixé à 10/20. 
 
-![Taux de réussite](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/Taux%20de%20r%C3%A9ussite.jpeg?raw=true)
+<img class="CC" src="/images/Taux de réussite.avif" alt="Tableau reprenant les taux de réussite depuis l'année académique 2016-2017 jusque la première session de 2021-2022."  />
 
 **Première constatation, d’une année sur l’autre, la taille de la cohorte peut varier de manière assez importante.** En dehors des variations dans les choix des étudiants, cela s’explique aussi par le fait que le cours d’économie politique se retrouve dans pas mal de cursus et les étudiants de cursus petit en nombre d’étudiants sont parfois changés de cours (il y a pas mal de cours d’économie politique qui sont donnés à l’UCLouvain) en fonction notamment des contraintes horaires. Cela veut donc dire que les cohortes ne sont pas parfaitement comparables.
 
@@ -29,7 +29,7 @@ Même si les chiffres sont trop bruts et dépendants de trop de paramètres que 
 
 **D’un autre côté, si l’on regarde la participation au cours,** l’on se rend compte que seul une partie des étudiants s’investissent en pratique dans le dispositif pédagogique proposé. 
 
-![Participation au cours](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/participation%20au%20cours.jpeg?raw=true)
+<img class="CC" src="/images/participation au cours.avif" alt="Graphique reprenant le taux de participation au cours qui débute à 80% pour le premier cours et termine un peu au-dessus de 20% pour le dernier. Il y a deux pics marqués dans le graphique."  />
 
 **Il y a évidemment de nouveau des questions de mesure.** Hormis les mesures 6 et 10, j’utilise les données de Wooclap. Wooclap est un système de télévote sur lequel les étudiants sont invités à se connecter au début de la plupart des cours typiquement pour pouvoir répondre à des QCM pendant celui-ci. Un étudiant peut ne pas s’être connecté et un étudiant peut aussi s’être connecté à la fois à partir de son PC et de son smartphone. Plus le temps passe, moins les étudiants se connectent mais ce n’est pas une réalité absolue d’autant plus que parfois je les réinvite avec insistance à se connecter sur la plateforme. Pour les mesures 6 et 10, c’est beaucoup plus fiable parce que ce sont des tests certificatifs et que là, je compte les copies rendues. Notons également que le delta de temps entre chaque point de mesure n’est pas forcément une semaine. Durant certains cours, je n’utilise pas Wooclap et il peut y avoir deux cours sur la même semaine.
 
@@ -49,7 +49,7 @@ Dans le cadre de mon cours, un grand nombre de ressources pédagogiques sont dis
 
 **Mon cours comporte 8 séances à domicile qui sont des modules que les étudiants sont censés effectuer entre deux cours.** Grosso modo, je peux savoir si les ressources de la séance (vidéos, textes, présentations commentées,...) ont été consultées. Je considère comme terminée une séance dont toutes les ressources suivies ont été consultées. Tout comme pour la présence au cours, c’est un indicateur faible de participation. Nous ne voyons pas la différence entre un étudiant qui a juste ouvert un document et celui qui l’a lu attentivement. Ces précautions méthodologiques mentionnées, voici ce que cela donne comme information:
 
-![Suivi séances](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/suivi%20s%C3%A9ances.jpeg?raw=true)
+<img class="CC" src="/images/suivi séances.avif" alt="Tableau reprenant le nombre d'étudiants selon le nombre de séances terminées (de 0 à 8)"  />
 
 **Première constatation, 7 étudiants ne sont pas inscrits sur la plateforme Moodle.** En effet, ici, je n’ai retrouvé que 249 étudiants alors qu’il y en a 256 d’inscrits à l’examen. Je pense qu’un seul de ces étudiants a présenté l’examen. Pour ces étudiants, peu de doute, ils ne se sont pas du tout impliqués dans le dispositif pédagogique proposé.
 
@@ -63,7 +63,7 @@ Durant mes études, j’ai passé tout un examen à me demander si la surveillan
 
 En croisant la réalisation des séances à domicile et les résultats à l’examen, j’obtiens le tableau suivant. 
 
-![Engagement vs réussite](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/engagement%20vs%20reussite.jpeg?raw=true)
+<img class="CC" src="/images/engagement vs reussite.avif" alt="Tableau reprenant la moyenne et le taux de réussite des étudiants en fonction du nombre de séances terminées (de 0 à 8)"  />
 
 Je n’ai plus que 231 étudiants contre 249 dans le tableau précédent parce que je n’ai pas gardé les personnes absentes le jour de l’examen. C’est principalement dans la catégorie 0 séance terminée que l’on retrouve ces absents.
 
@@ -81,7 +81,7 @@ La **docimologie** est consacrée à l’étude du déroulement des évaluations
 
 Si l’on regarde la **distribution des notes**, j’évite au moins la distribution gaussienne des résultats. (NB: par rapport aux tableaux précédents, il manque 20 étudiants avec une note de présence [0/20] dans le graphique ci-dessous.) 
 
-![Distribution des résultats](https://github.com/t-isaac/test-website-repo-3796/blob/main/images/distribution%20des%20resultats.jpeg?raw=true)
+<img class="CC" src="/images/distribution des resultats.avif" alt="Graphique batonnet reprenant le nombre d'étudiant par note à l'examen (entre 0 et 20). On n'observe pas du tout la distribution gaussienne (en cloche)."  />
 
 **Quelques éléments qui nous prémunissent de la gaussienne**: 1) Une partie de l’examen est un QCM qui est évidemment beaucoup moins susceptible de donner lieu à une gaussienne par goût du correcteur; 2) une grille de cotation est établie avant de corriger et certains éléments de cette grille ne sont pas du tout sujets à interprétation; 3) la plupart du quart des étudiants qui ne s’inscrivent pas dans le dispositif pédagogique (identifié plus haut dans le texte) rendent de très mauvaises copies, avec beaucoup d’absence de réponse.
 
