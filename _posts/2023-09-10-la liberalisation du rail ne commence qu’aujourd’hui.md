@@ -23,7 +23,7 @@ Finalement, **je me contenterai de parler du cas belge** n’ayant pratiquement 
 
 ## Contexte
 
-<em> Image originale par <a href="https://commons.wikimedia.org/w/index.php?curid=3225885"> Ellywa at nl.wikipedia - Eigen werk, Publiek domein </a> traficotée par mes soins.
+<em> Image originale par <a href="https://commons.wikimedia.org/w/index.php?curid=3225885"> Ellywa - Eigen werk, Publiek domein </a> modifiée par mes soins.
 </em>
 <img class="GF" src="/images/Wissels_en_bovenleiding_emplacement_Utrecht_februari_2003.avif" alt="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" title="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" />
 
