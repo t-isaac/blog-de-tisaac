@@ -55,6 +55,6 @@ Ce qui m’amène à mon troisième élément : nous n’avons pas encore vu le
 
 Les deux premiers éléments ont pendant longtemps aidé à gérer les éventuels problèmes de capacité. Par ailleurs, le troisième élément risque d’accélérer les évolutions pointées dans les deux premiers points. Lorsque l’on se trouvera dans des situations où les acteurs n’arrivent plus à trouver des solutions coopératives, ils seront poussés à adopter des attitudes plus individualistes. Renforçant la difficulté de gérer les éventuelles saturations du réseau. Je crains donc que l’on passe relativement rapidement d’une situation sans grands problèmes de coordination à une situation où celle-ci sera visiblement difficile à réaliser.
 
-Les cinq prochaines années seront sans doute passionnantes à observer. En espérant que mon scepticisme sur la capacité de coordination du système soit non fondé.
+Les cinq prochaines années seron passionnantes à observer. En espérant que mon scepticisme sur la capacité de coordination du système soit non fondé.
 
 _Il est évident que ce texte n’est qu’une réflexion personnelle et ne pourrait en aucun cas engager une autre personne que moi ou une quelconque institution._
