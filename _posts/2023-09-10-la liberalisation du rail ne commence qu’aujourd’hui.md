@@ -12,7 +12,7 @@ En effet, il est évident que **les libéralisations des trafics fret et grande 
 <picture class="CC">
 <img src="/images/1015px-Twee_Thalys-treinen_op_Amsterdam_Centraal.avif" alt="Deux trains Thalys en gare d'Amsterdam-Central" title="Deux trains Thalys en gare d'Amsterdam-Central" />
 <p>
-<em> Image originale par <a href=https://commons.wikimedia.org/w/index.php?curid=68110292>Metrophil — Travail personnel, CC BY-SA 3.0 </a>
+<em> Image originale par <a href="https://commons.wikimedia.org/w/index.php?curid=68110292"> Metrophil — Travail personnel, CC BY-SA 3.0 </a>
 traficotée par mes soins. </em>
 </p>
 </picture>
@@ -28,7 +28,7 @@ Infrabel, le gestionnaire de l’infrastructure en Belgique, est créé en 2008.
 <picture class="GF">
 <img src="/images/Wissels_en_bovenleiding_emplacement_Utrecht_februari_2003.avif" alt="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" title="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" />
 <p>
-<em> Image originale par <a href=https://commons.wikimedia.org/w/index.php?curid=3225885> Ellywa at nl.wikipedia - Eigen werk, Publiek domein</a> traficotée par mes soins.
+<em> Image originale par <a href="https://commons.wikimedia.org/w/index.php?curid=3225885"> Ellywa at nl.wikipedia - Eigen werk, Publiek domein </a> traficotée par mes soins.
 </em>
 </p>
 </picture>
