@@ -9,8 +9,13 @@ Avant que l’on puisse me le reprocher, je dois m’excuser pour ce titre total
 
 En effet, il est évident que **les libéralisations des trafics fret et grande vitesse ont déjà été réalisées** depuis longtemps et avec de réelles conséquences. Mon propos porte principalement sur le trafic voyageur _classique_ (vs. _grande vitesse_).
 
-![Deux trains Thalys en gare d'Amsterdam-Central](/images/1015px-Twee_Thalys-treinen_op_Amsterdam_Centraal.avif)
-_Image originale par [Metrophil — Travail personnel, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=68110292) traficotée par mes soins_
+<picture class="CC">
+<img src="/images/1015px-Twee_Thalys-treinen_op_Amsterdam_Centraal.avif" alt="Deux trains Thalys en gare d'Amsterdam-Central" title="Deux trains Thalys en gare d'Amsterdam-Central" />
+<p>
+<em> Image originale par <a href=https://commons.wikimedia.org/w/index.php?curid=68110292>Metrophil — Travail personnel, CC BY-SA 3.0 </a>
+traficotée par mes soins. </em>
+</p>
+</picture>
 
 Par ailleurs, plus que de la libéralisation, **mon sujet est la séparation entre le gestionnaire de l’infrastructure et de l’entreprise ferroviaire**. Cette séparation est perçue comme un préalable à la libéralisation et n’a pas vraiment de sens dans un contexte non-libéralisé.
 
@@ -20,8 +25,13 @@ Finalement, **je me contenterai de parler du cas belge** n’ayant pratiquement 
 
 Infrabel, le gestionnaire de l’infrastructure en Belgique, est créé en 2008. Au départ, comme filiale de la SNCB Holding dont la SNCB, opérateur ferroviaire, est une autre filiale. En 2014, la séparation est accentuée avec une structure où Infrabel et la SNCB ne possède plus de structure faîtière commune.
 
-![Photo d'un complexe d'aiguillage à l'entrée d'Utrecht](/images/Wissels_en_bovenleiding_emplacement_Utrecht_februari_2003.avif)
-_Image originale par [Ellywa at nl.wikipedia - Eigen werk, Publiek domein]( https://commons.wikimedia.org/w/index.php?curid=3225885) traficotée par mes soins._
+<picture class="GF">
+<img src="/images/Wissels_en_bovenleiding_emplacement_Utrecht_februari_2003.avif" alt="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" title="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" />
+<p>
+<em> Image originale par <a href=https://commons.wikimedia.org/w/index.php?curid=3225885> Ellywa at nl.wikipedia - Eigen werk, Publiek domein</a> traficotée par mes soins.
+</em>
+</p>
+</picture>
 
 Bien que la séparation entre l’entreprise ferroviaire et le gestionnaire d’infrastructure remonte à une quinzaine d’année, je pense que nous ne commençons que depuis récemment à en voir tous les effets. Cela pour trois raisons.
 
