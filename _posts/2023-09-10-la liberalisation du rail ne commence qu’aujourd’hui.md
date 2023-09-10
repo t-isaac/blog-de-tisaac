@@ -23,7 +23,7 @@ Finalement, **je me contenterai de parler du cas belge** n’ayant pratiquement 
 
 # Contexte
 
-<img clas="GF" src="/images/Wissels_en_bovenleiding_emplacement_Utrecht_februari_2003.avif" alt="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" title="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" />
+<img class="GF" src="/images/Wissels_en_bovenleiding_emplacement_Utrecht_februari_2003.avif" alt="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" title="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" />
 
 Infrabel, le gestionnaire de l’infrastructure en Belgique, est créé en 2008. Au départ, comme filiale de la SNCB Holding dont la SNCB, opérateur ferroviaire, est une autre filiale. En 2014, la séparation est accentuée avec une structure où Infrabel et la SNCB ne possède plus de structure faîtière commune.
 
