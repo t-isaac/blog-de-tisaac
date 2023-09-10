@@ -25,13 +25,13 @@ Finalement, **je me contenterai de parler du cas belge** n’ayant pratiquement 
 
 Infrabel, le gestionnaire de l’infrastructure en Belgique, est créé en 2008. Au départ, comme filiale de la SNCB Holding dont la SNCB, opérateur ferroviaire, est une autre filiale. En 2014, la séparation est accentuée avec une structure où Infrabel et la SNCB ne possède plus de structure faîtière commune.
 
-<picture class="GF">
+<figure class="GF">
 <img src="/images/Wissels_en_bovenleiding_emplacement_Utrecht_februari_2003.avif" alt="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" title="Photo d'un complexe d'aiguillage à l'entrée d'Utrecht" />
 <p>
 <em> Image originale par <a href="https://commons.wikimedia.org/w/index.php?curid=3225885"> Ellywa at nl.wikipedia - Eigen werk, Publiek domein </a> traficotée par mes soins.
 </em>
 </p>
-</picture>
+</figure>
 
 Bien que la séparation entre l’entreprise ferroviaire et le gestionnaire d’infrastructure remonte à une quinzaine d’année, je pense que nous ne commençons que depuis récemment à en voir tous les effets. Cela pour trois raisons.
 
