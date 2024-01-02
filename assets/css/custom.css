@@ -8,6 +8,11 @@ svg {
    stroke: var(--couleur-primaire);
 }
 
+#Voilier {
+   float: left;
+   margin-left: 0rem;
+}
+
 /* Le "logo" */
 header div.container {
    background-image: url(https://github.com/t-isaac/test-website-repo-3796/raw/main/images/logo.avif);
@@ -38,14 +43,6 @@ header ul {
   gap: 0.45rem;
 }
 
-/* a récupérer pour logo RSS */
-header a[href$="/feed.xml"] {
-   display: block;
-   width: 10rem;
-   height: 10rem;
-   background-color: pink;
-}
-
 /* On essaie de faire disparaitre l'espace disgracieux dans le menu */
 header a[href$="/images/"] {
   display: none;
@@ -73,10 +70,7 @@ header a[href$="/images/"] {
 
 
 
-#Voilier {
-   float: left;
-   margin-left: 0rem;
-}
+
 
 
 /* Sur la page article, effacer les ligne de séparation et les Lire l'article */
