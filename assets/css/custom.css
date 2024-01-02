@@ -44,7 +44,8 @@ header li {
    display: block;
    width: 10rem;
    height: 10rem;
-   background-color: pink; 
+   background-color: pink;
+   } 
 }
 
 /* On essaie de faire disparaitre l'espace disgracieux dans le menu */
