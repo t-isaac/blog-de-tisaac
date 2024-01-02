@@ -39,13 +39,13 @@ header ul {
 }
 
 /* a récupérer pour logo RSS */
-/* header a[href$="/images/"] {
+header a[href$="/feed.xml"] {
 header li { 
    display: block;
    width: 10rem;
    height: 10rem;
    background-color: pink; 
-}*/
+}
 
 /* On essaie de faire disparaitre l'espace disgracieux dans le menu */
 header a[href$="/images/"] {
