@@ -63,11 +63,6 @@ header ul {
 }
 
 
-
-
-
-
-
 /* Sur la page article, effacer les ligne de séparation et les Lire l'article */
 hr, article.blog-item > a {
   display: none;
@@ -79,18 +74,21 @@ hr, article.blog-item > a {
   text-decoration: underline;
   transition: 0.1s;
 }
-/* agrandir les titres quand on passe dessus avec la souris + élargir la ligne qui souligne */
-.blog-item h2 a:hover {
-  font-size: 1.5rem;
-}
-/* changer la couleur d'un titre quand il a déjà été visité */
-.blog-item h2 a:visited {
-  color: silver;
-}
-
 
 /* réduire l'espacement entre les titres d'articles */
 .blog-item, .blog-item h2 {
   margin-top: 0rem;
   margin-bottom: 0rem;
 }
+
+/* agrandir les titres quand on passe dessus avec la souris + élargir la ligne qui souligne */
+.blog-item h2 a:hover {
+  font-size: 1.5rem;
+}
+
+/* changer la couleur d'un titre quand il a déjà été visité */
+.blog-item h2 a:visited {
+  color: silver;
+}
+
+
