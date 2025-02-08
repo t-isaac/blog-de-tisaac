@@ -13,35 +13,7 @@ svg {
    margin-left: 0rem;
 }
 
-/* Le "logo" */
-/* header div.container {
-   background-image: url(https://github.com/t-isaac/test-website-repo-3796/raw/main/images/logo.avif);
-   background-repeat: no-repeat;
-   background-position: left center;
-   background-size: contain;
-}
-@media only screen and (max-width:430px) {
-header div.container{
-      background-size: 40%; }
-}
-@media only screen and (max-width:300px) and (min-width:270px) {
-header div.container{
-      background-size: 35%; }
-}
-@media only screen and (max-width:270px) and (min-width:250px) {
-header div.container{
-      background-size: 30%; }
-}
-@media only screen and (max-width:250px) and (min-width:210px) {
-header div.container{
-      background-size: 25%; }
-} */
 
-/* pour inverser Accueil et Articles */
-/* header ul {
-  flex-direction: row-reverse;
-  gap: 0.45rem;
-} */
 
 /* des classe qui permettent d'aligner à gauche, au centre ou à droite des images (a priori) avec ou sans le caractère flottant*/
 .GF {
