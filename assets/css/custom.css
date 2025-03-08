@@ -27,10 +27,10 @@ header div.container{
 }
 
 /* pour inverser Accueil et Articles */
-header ul {
+/* header ul {
   flex-direction: row-reverse;
   gap: 0.45rem;
-}
+} */
 
 /* pour le Voilier soit de la couleur du thème */
 svg {
