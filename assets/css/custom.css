@@ -3,26 +3,26 @@
 }
 
 /* Le "logo" */
-header {
+header div.container{
    background-image: url(https://github.com/t-isaac/test-website-repo-3796/raw/main/images/logo.avif);
    background-repeat: no-repeat;
    background-position: center;
    background-size: contain;
 }
 @media only screen and (max-width:430px) {
-header {
+header div.container{
       background-size: 40%; }
 }
 @media only screen and (max-width:300px) and (min-width:270px) {
-header {
+header div.container{
       background-size: 35%; }
 }
 @media only screen and (max-width:270px) and (min-width:250px) {
-header {
+header div.container{
       background-size: 30%; }
 }
 @media only screen and (max-width:250px) and (min-width:210px) {
-header {
+header div.container{
       background-size: 25%; }
 }
 
