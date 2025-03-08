@@ -62,3 +62,31 @@ svg {
    margin: auto;
 }
 
+
+/* Sur la page article, effacer les ligne de séparation et les Lire l'article */
+hr, article.blog-item > a {
+  display: none;
+}
+
+/* diminuer la taille des titres d'articles + les souligner + prévoir une transition quand on passe avec la souris sur un titre*/
+.blog-item h2 a {
+  font-size: 1.25rem;
+  text-decoration: underline;
+  transition: 0.1s;
+}
+
+/* réduire l'espacement entre les titres d'articles */
+.blog-item, .blog-item h2 {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+}
+
+/* agrandir les titres quand on passe dessus avec la souris + élargir la ligne qui souligne */
+.blog-item h2 a:hover {
+  font-size: 1.5rem;
+}
+
+/* changer la couleur d'un titre quand il a déjà été visité */
+.blog-item h2 a:visited {
+  color: silver;
+}
