@@ -10,19 +10,19 @@ header {
    background-size: contain;
 }
 @media only screen and (max-width:430px) {
-header div.container{
+header {
       background-size: 40%; }
 }
 @media only screen and (max-width:300px) and (min-width:270px) {
-header div.container{
+header {
       background-size: 35%; }
 }
 @media only screen and (max-width:270px) and (min-width:250px) {
-header div.container{
+header {
       background-size: 30%; }
 }
 @media only screen and (max-width:250px) and (min-width:210px) {
-header div.container{
+header {
       background-size: 25%; }
 }
 
