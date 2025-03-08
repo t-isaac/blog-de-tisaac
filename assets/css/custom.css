@@ -3,7 +3,7 @@
 }
 
 /* Le "logo" */
-header div.container {
+header {
    background-image: url(https://github.com/t-isaac/test-website-repo-3796/raw/main/images/logo.avif);
    background-repeat: no-repeat;
    background-position: center;
