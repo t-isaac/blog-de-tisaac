@@ -32,6 +32,16 @@ header div.container{
   gap: 0.45rem;
 } */
 
+/* pour le Voilier soit de la couleur du thème */
+svg {
+   fill: var(--couleur-primaire);
+   stroke: var(--couleur-primaire);
+}
+
+#Voilier {
+   float: left;
+   margin-left: 0rem;
+}
 
 
 
