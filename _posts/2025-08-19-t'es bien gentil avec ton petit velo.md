@@ -27,6 +27,6 @@ En dehors de la question de l’efficacité, on me dit parfois que c’est parce
 
 En vrai, je triche. Si faire du vélo n’est pas toujours que joie, je dois reconnaître que j’y prends beaucoup de plaisir. Mais le plaisir n’est pas qu’inné. Avec le temps, j’ai appris à voir et créer le positif. Il n’est pas question de se voiler la face mais plutôt que d’uniquement râler sur une difficulté ou sur une contrainte, il n’est jamais perdu d’essayer d’en faire une opportunité. En dehors du monde de la bicyclette, je devais effectuer une correspondance entre deux gares à Paris. Correspondance particulièrement longue suite au fait que j’avais pris mes billets tardivement et que tous les trains n’étaient plus disponibles. J’en ai profité pour traverser Paris à pied. Ce n’était pas mon option préférée et je ne le referai pas systématiquement mais je dois reconnaitre qu’au final, j’ai passé un merveilleux moment.
 
-Mon petit vélo c’est une goûte qui vient éroder des rochers. Avec des milliers d’autres, elle vient éroder des rochers. Peut-être que cela créera une brèche dans les rochers, peut-être que pas. Mais sans aucune goûte, les rochers ne seront pas érodés.
+Mon petit vélo c’est une goutte qui vient éroder des rochers. Avec des milliers d’autres, elle vient éroder des rochers. Peut-être que cela créera une brèche dans les rochers, peut-être que pas. Mais sans aucune goutte, les rochers ne seront pas érodés.
 
 Mon petit vélo, c’est semer des graines. Peut-être qu’elles germeront, peut-être pas. Mais sans aucune graine, c’est le désert qui adviendra.
